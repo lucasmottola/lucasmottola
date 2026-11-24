@@ -1,11 +1,9 @@
 Estou construindo minha trajetória em Qualidade de Software por meio de projetos práticos. Gosto de entender o comportamento esperado, testar diferentes cenários e registrar os resultados com clareza e evidências.
-```markdown
-[![Cypress](https://img.shields.io/badge/Cypress-16.3.0-304C59?logo=cypress&logoColor=white&style=flat-square)](https://www.cypress.io/)
-[![Postman](https://img.shields.io/badge/Postman-Collection%20v2.1-304C59?logo=postman&logoColor=white&style=flat-square)](https://www.postman.com/)
-[![Gherkin](https://img.shields.io/badge/Gherkin-BDD-304C59?logo=cucumber&logoColor=white&style=flat-square)](https://cucumber.io/docs/gherkin/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-304C59?logo=javascript&logoColor=white&style=flat-square)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![Último commit](https://img.shields.io/github/last-commit/lucasmottola/portfolio-qa-engenharia-de-qualidade?style=flat-square&color=304C59&label=último%20commit)](https://github.com/lucasmottola/portfolio-qa-engenharia-de-qualidade/commits/main)
-```
+[![Cypress](https://img.shields.io/badge/Cypress-16.3.0-304C59?logo=cypress&logoColor=white&style=flat-square )](https://www.cypress.io/ )
+[![Postman](https://img.shields.io/badge/Postman-Collection%20v2.1-304C59?logo=postman&logoColor=white&style=flat-square )](https://www.postman.com/ )
+[![Gherkin](https://img.shields.io/badge/Gherkin-BDD-304C59?logo=cucumber&logoColor=white&style=flat-square )](https://cucumber.io/docs/gherkin/ )
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-304C59?logo=javascript&logoColor=white&style=flat-square )](https://developer.mozilla.org/docs/Web/JavaScript )
+[![Último commit](https://img.shields.io/github/last-commit/lucasmottola/portfolio-qa-engenharia-de-qualidade?style=flat-square&color=304C59&label=ultimo%20commit )](https://github.com/lucasmottola/portfolio-qa-engenharia-de-qualidade/commits/main )
 ## Portfólio de QA
 Organizei meus projetos em quatro frentes práticas:
 
