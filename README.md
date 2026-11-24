@@ -18,7 +18,6 @@ O que venho praticando
     • Registrar evidências e limites do que elas permitem concluir.
     • Testar APIs no Postman e automatizar fluxos de interface com Cypress.
 
-Repositório em destaque
-portfolio-qa-engenharia-de-qualidade
+## Repositório em destaque
 
-Os resultados apresentados são registros das execuções documentadas no repositório. Como os projetos usam aplicações de demonstração, o comportamento pode mudar com o tempo.
+[Portfólio de Engenharia de Qualidade de Software](https://github.com/lucasmottola/portfolio-qa-engenharia-de-qualidade )
