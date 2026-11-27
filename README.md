@@ -7,16 +7,17 @@ Estou construindo minha trajetória em Qualidade de Software por meio de projeto
 ## Portfólio de QA
 Organizei meus projetos em quatro frentes práticas:
 
-    • Testes manuais e BDD: cenários de login, carrinho e checkout no SauceDemo. O relatório de checkout registra quatro casos aprovados, incluindo a compra e as validações dos campos obrigatórios.
-    • Investigação de bugs: relatos de defeitos observados no AcademyBugs. Um caso confirma uma página 404 em duas tentativas. Outro registra dois envios de reserva sem confirmação visível, com respostas HTTP 200, sem tratar esse status como prova de que a reserva foi concluída.
-    • Testes de API com Postman: coleção de 11 requisições para a ServeRest, cobrindo autenticação, cadastro, validações e operações CRUD de produtos.
-    • Automação web com Cypress: testes de login com usuário bloqueado e checkout de dois produtos no SauceDemo. A execução registrada em 23/11/2026 teve dois testes aprovados e nenhuma falha, com capturas de tela e vídeos.
+- Testes manuais e BDD: cenários de login, carrinho e checkout no SauceDemo. O relatório de checkout registra quatro casos aprovados, incluindo a compra e as validações dos campos obrigatórios.
+- Investigação de bugs: relatos de defeitos observados no AcademyBugs. Um caso confirma uma página 404 em duas tentativas. Outro registra dois envios de reserva sem confirmação visível, com respostas HTTP 200, sem tratar esse status como prova de que a reserva foi concluída.
+- Testes de API com Postman: coleção de 11 requisições para a ServeRest, cobrindo autenticação, cadastro, validações e operações CRUD de produtos.
+- Automação web com Cypress: testes de login com usuário bloqueado e checkout de dois produtos no SauceDemo. A execução registrada em 23/11/2026 teve dois testes aprovados e nenhuma falha, com capturas de tela e vídeos.
 
-O que venho praticando
-    • Escrever cenários de teste e organizar casos por identificador.
-    • Comparar resultados esperados e observados.
-    • Registrar evidências e limites do que elas permitem concluir.
-    • Testar APIs no Postman e automatizar fluxos de interface com Cypress.
+## O que venho praticando
+
+- Escrever cenários de teste e organizar casos por identificador.
+- Comparar resultados esperados e observados.
+- Registrar evidências e limites do que elas permitem concluir.
+- Testar APIs no Postman e automatizar fluxos de interface com Cypress.
 
 ## Repositório em destaque
 
